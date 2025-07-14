@@ -1,0 +1,1 @@
+In this project we have created a bill splitter app using HTML, CSS and JavaScript. In the app, fields are available to enter the total bill amount, tip button, custom tip amount and the number of people the bill is to be split. By clicking on the Generate Bill button we can show the total bill amount, tip and per person amount to be paid.
